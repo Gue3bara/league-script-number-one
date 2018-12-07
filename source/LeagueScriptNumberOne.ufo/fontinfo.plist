@@ -9,9 +9,7 @@
 	<key>descender</key>
 	<integer>-250</integer>
 	<key>familyName</key>
-	<string>League Script Thin Normal</string>
-	<key>italicAngle</key>
-	<real>0.0</real>
+	<string>League Script Thin</string>
 	<key>openTypeHeadCreated</key>
 	<string>2011/05/25 16:26:00</string>
 	<key>openTypeNamePreferredFamilyName</key>
@@ -32,12 +30,12 @@
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
-	<key>postscriptWeightName</key>
-	<string>Regular</string>
+	<key>styleMapFamilyName</key>
+	<string>League Script Thin Normal</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Normal</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
